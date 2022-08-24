@@ -1,0 +1,15 @@
+C:\Users\Mahdi\Desktop\SinglyLinkedListWithSolve-PuzzleMethods\SinglyLinkedListWithSolve-PuzzleMethods\bin\Debug\net6.0\SinglyLinkedListWithSolve-PuzzleMethods.exe
+C:\Users\Mahdi\Desktop\SinglyLinkedListWithSolve-PuzzleMethods\SinglyLinkedListWithSolve-PuzzleMethods\bin\Debug\net6.0\SinglyLinkedListWithSolve-PuzzleMethods.deps.json
+C:\Users\Mahdi\Desktop\SinglyLinkedListWithSolve-PuzzleMethods\SinglyLinkedListWithSolve-PuzzleMethods\bin\Debug\net6.0\SinglyLinkedListWithSolve-PuzzleMethods.runtimeconfig.json
+C:\Users\Mahdi\Desktop\SinglyLinkedListWithSolve-PuzzleMethods\SinglyLinkedListWithSolve-PuzzleMethods\bin\Debug\net6.0\SinglyLinkedListWithSolve-PuzzleMethods.dll
+C:\Users\Mahdi\Desktop\SinglyLinkedListWithSolve-PuzzleMethods\SinglyLinkedListWithSolve-PuzzleMethods\bin\Debug\net6.0\ref\SinglyLinkedListWithSolve-PuzzleMethods.dll
+C:\Users\Mahdi\Desktop\SinglyLinkedListWithSolve-PuzzleMethods\SinglyLinkedListWithSolve-PuzzleMethods\bin\Debug\net6.0\SinglyLinkedListWithSolve-PuzzleMethods.pdb
+C:\Users\Mahdi\Desktop\SinglyLinkedListWithSolve-PuzzleMethods\SinglyLinkedListWithSolve-PuzzleMethods\obj\Debug\net6.0\SinglyLinkedListWithSolve-PuzzleMethods.csproj.AssemblyReference.cache
+C:\Users\Mahdi\Desktop\SinglyLinkedListWithSolve-PuzzleMethods\SinglyLinkedListWithSolve-PuzzleMethods\obj\Debug\net6.0\SinglyLinkedListWithSolve-PuzzleMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahdi\Desktop\SinglyLinkedListWithSolve-PuzzleMethods\SinglyLinkedListWithSolve-PuzzleMethods\obj\Debug\net6.0\SinglyLinkedListWithSolve-PuzzleMethods.AssemblyInfoInputs.cache
+C:\Users\Mahdi\Desktop\SinglyLinkedListWithSolve-PuzzleMethods\SinglyLinkedListWithSolve-PuzzleMethods\obj\Debug\net6.0\SinglyLinkedListWithSolve-PuzzleMethods.AssemblyInfo.cs
+C:\Users\Mahdi\Desktop\SinglyLinkedListWithSolve-PuzzleMethods\SinglyLinkedListWithSolve-PuzzleMethods\obj\Debug\net6.0\SinglyLinkedListWithSolve-PuzzleMethods.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\Desktop\SinglyLinkedListWithSolve-PuzzleMethods\SinglyLinkedListWithSolve-PuzzleMethods\obj\Debug\net6.0\SinglyLinkedListWithSolve-PuzzleMethods.dll
+C:\Users\Mahdi\Desktop\SinglyLinkedListWithSolve-PuzzleMethods\SinglyLinkedListWithSolve-PuzzleMethods\obj\Debug\net6.0\ref\SinglyLinkedListWithSolve-PuzzleMethods.dll
+C:\Users\Mahdi\Desktop\SinglyLinkedListWithSolve-PuzzleMethods\SinglyLinkedListWithSolve-PuzzleMethods\obj\Debug\net6.0\SinglyLinkedListWithSolve-PuzzleMethods.pdb
+C:\Users\Mahdi\Desktop\SinglyLinkedListWithSolve-PuzzleMethods\SinglyLinkedListWithSolve-PuzzleMethods\obj\Debug\net6.0\SinglyLinkedListWithSolve-PuzzleMethods.genruntimeconfig.cache
